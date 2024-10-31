@@ -1,0 +1,3 @@
+
+IDE Terminal:
+npx cypress open
