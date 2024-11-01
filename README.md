@@ -7,12 +7,12 @@ The technical challenge is comprised of 3 Cypress test automation scripts to val
 2. [Node.js](https://nodejs.org/en) - You may find PowerShell hangs for 10-20 minutes. Be patient and let it do it's thing.
 
 3. [Cypress](https://www.cypress.io/install) - Use a package manager through IDE command line/terminal. May need authorisation through setting PowerShell execution policy.
-npm install pnpm@latest --global
-npm install cypress --save-dev
+- npm install pnpm@latest --global
+- npm install cypress --save-dev
 
 ## Execute Tests
 1. Open Cypress through the terminal
-npx cypress open
+- npx cypress open
 
 2. Cypress app window will open.
 3. Select E2E Testing
