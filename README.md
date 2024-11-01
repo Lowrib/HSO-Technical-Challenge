@@ -28,4 +28,4 @@ The technical challenge is comprised of 3 Cypress test automation scripts to val
 - All 3 tests are passing.
 
 ## Bugs
-- E2e test browser must be closed throigh Cypress App window in between test runs, else navigation to application hangs.
+- E2E test browser must be closed through Cypress App window in between test runs, else navigation to application hangs.
